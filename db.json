@@ -22,7 +22,7 @@
   	"nome": "Diego Oliveira",
       	"idade": 21,
       	"nota": [6.0, 7.5, 7.0],
-      	"frequencia": [false, true, true, true, true, false, false, true, true, 
+      	"frequencia": [false, true, true, true, true, false, false, true, true, true]
 	},
 	{
   	"nome": "Fernanda Costa",
