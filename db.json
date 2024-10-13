@@ -1,5 +1,4 @@
 {
-  "alunos": [
     {
       "nome": "Ana Silva",
       "idade": 20,
@@ -30,5 +29,4 @@
       "nota": [8.0, 8.5, 9.0],
       "frequencia": [true, true, true, false, true, true, true, true, true, true]
     }
-  ]
 }
